@@ -1,0 +1,19 @@
+#map {
+  height: 90vh;
+  width: 100hw;
+}
+.ir-arriba {
+	display:none;
+	padding:20px;
+	background:hsl(191, 68%, 48%);
+	font-size:20px;
+	color:#fff;
+	cursor:pointer;
+	position: fixed;
+	bottom:20px;
+	right:20px;
+}
+#titulo-mapa {
+color: rgb(5, 35, 99);
+text-align: center;
+}
